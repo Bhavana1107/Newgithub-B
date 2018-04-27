@@ -1,2 +1,2 @@
 # Newgithub-B
-New repository created
+New repository created for practicing
